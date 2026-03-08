@@ -7,8 +7,8 @@ import (
 	"path/filepath"
 	"regexp"
 
-	"github.com/bycmd/GoRouter-kit/history"
-	"github.com/bycmd/GoRouter-kit/schema"
+	"github.com/ifsix/GoRouter-kit/history"
+	"github.com/ifsix/GoRouter-kit/schema"
 )
 
 type Store struct {

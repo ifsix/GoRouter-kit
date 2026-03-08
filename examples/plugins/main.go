@@ -6,7 +6,7 @@ import (
 	"log"
 	"os"
 
-	"github.com/bycmd/GoRouter-kit"
+	"github.com/ifsix/GoRouter-kit"
 )
 
 func main() {

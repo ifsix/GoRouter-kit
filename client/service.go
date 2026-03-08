@@ -8,8 +8,8 @@ import (
 	"net/http"
 	"strings"
 
-	"github.com/bycmd/GoRouter-kit/errs"
-	"github.com/bycmd/GoRouter-kit/schema"
+	"github.com/ifsix/GoRouter-kit/errs"
+	"github.com/ifsix/GoRouter-kit/schema"
 )
 
 func (c *Client) SetModel(model string) error {

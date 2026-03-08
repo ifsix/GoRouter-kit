@@ -3,7 +3,7 @@ package cost
 import (
 	"sync"
 
-	"github.com/bycmd/GoRouter-kit/schema"
+	"github.com/ifsix/GoRouter-kit/schema"
 )
 
 type Price struct {

@@ -6,7 +6,7 @@ import (
 	"os"
 	"time"
 
-	"github.com/bycmd/GoRouter-kit/client"
+	"github.com/ifsix/GoRouter-kit/client"
 )
 
 type LoggingPlugin struct {

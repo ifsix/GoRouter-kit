@@ -6,9 +6,9 @@ import (
 	"strings"
 	"time"
 
-	"github.com/bycmd/GoRouter-kit/schema"
-	"github.com/bycmd/GoRouter-kit/security"
-	"github.com/bycmd/GoRouter-kit/tools"
+	"github.com/ifsix/GoRouter-kit/schema"
+	"github.com/ifsix/GoRouter-kit/security"
+	"github.com/ifsix/GoRouter-kit/tools"
 )
 
 func (c *Client) ChatStreamResult(ctx context.Context, req schema.ChatRequest, cb *schema.StreamCallbacks) (*schema.ChatStreamResult, error) {

@@ -3,7 +3,7 @@ package security
 import (
 	"context"
 
-	"github.com/bycmd/GoRouter-kit/schema"
+	"github.com/ifsix/GoRouter-kit/schema"
 )
 
 type User struct {

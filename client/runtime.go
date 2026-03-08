@@ -1,8 +1,8 @@
 package client
 
 import (
-	"github.com/bycmd/GoRouter-kit/history"
-	"github.com/bycmd/GoRouter-kit/security"
+	"github.com/ifsix/GoRouter-kit/history"
+	"github.com/ifsix/GoRouter-kit/security"
 )
 
 type destroyable interface {

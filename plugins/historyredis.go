@@ -3,9 +3,9 @@ package plugins
 import (
 	"errors"
 
-	"github.com/bycmd/GoRouter-kit/client"
-	"github.com/bycmd/GoRouter-kit/history"
-	redisstore "github.com/bycmd/GoRouter-kit/history/redis"
+	"github.com/ifsix/GoRouter-kit/client"
+	"github.com/ifsix/GoRouter-kit/history"
+	redisstore "github.com/ifsix/GoRouter-kit/history/redis"
 )
 
 type RedisHistoryPluginOptions struct {

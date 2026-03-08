@@ -5,9 +5,9 @@ import (
 	"strings"
 	"time"
 
-	"github.com/bycmd/GoRouter-kit/cost"
-	"github.com/bycmd/GoRouter-kit/history"
-	"github.com/bycmd/GoRouter-kit/security"
+	"github.com/ifsix/GoRouter-kit/cost"
+	"github.com/ifsix/GoRouter-kit/history"
+	"github.com/ifsix/GoRouter-kit/security"
 )
 
 type Config struct {

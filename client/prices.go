@@ -6,7 +6,7 @@ import (
 	"strings"
 	"time"
 
-	"github.com/bycmd/GoRouter-kit/cost"
+	"github.com/ifsix/GoRouter-kit/cost"
 )
 
 func (c *Client) RefreshModelPrices(ctx context.Context) error {

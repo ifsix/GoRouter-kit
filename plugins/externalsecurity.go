@@ -3,8 +3,8 @@ package plugins
 import (
 	"errors"
 
-	"github.com/bycmd/GoRouter-kit/client"
-	"github.com/bycmd/GoRouter-kit/security"
+	"github.com/ifsix/GoRouter-kit/client"
+	"github.com/ifsix/GoRouter-kit/security"
 )
 
 type GuardFactory func(current security.Guard) security.Guard

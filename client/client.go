@@ -10,14 +10,14 @@ import (
 	"sync"
 	"time"
 
-	"github.com/bycmd/GoRouter-kit/config"
-	"github.com/bycmd/GoRouter-kit/cost"
-	"github.com/bycmd/GoRouter-kit/errs"
-	"github.com/bycmd/GoRouter-kit/history"
-	"github.com/bycmd/GoRouter-kit/hooks"
-	"github.com/bycmd/GoRouter-kit/schema"
-	"github.com/bycmd/GoRouter-kit/security"
-	"github.com/bycmd/GoRouter-kit/tools"
+	"github.com/ifsix/GoRouter-kit/config"
+	"github.com/ifsix/GoRouter-kit/cost"
+	"github.com/ifsix/GoRouter-kit/errs"
+	"github.com/ifsix/GoRouter-kit/history"
+	"github.com/ifsix/GoRouter-kit/hooks"
+	"github.com/ifsix/GoRouter-kit/schema"
+	"github.com/ifsix/GoRouter-kit/security"
+	"github.com/ifsix/GoRouter-kit/tools"
 )
 
 type Client struct {

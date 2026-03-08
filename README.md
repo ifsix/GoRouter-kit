@@ -1,9 +1,13 @@
 # GoRouter Kit
 
-[![Go](assets/badges/go.svg)](https://go.dev/)
-[![Repo](assets/badges/repo.svg)](https://github.com/ifsix/GoRouter-kit)
-[![License](assets/badges/license.svg)](./LICENSE)
-[Русский](./README.ru.md) | **English**
+Language: **English** | [Русский](./README.ru.md)
+
+[![Go Version](https://img.shields.io/badge/Go-1.22-00ADD8?style=for-the-badge&logo=go&logoColor=white)](https://go.dev/)
+[![Module](https://img.shields.io/badge/module-github.com%2Fifsix%2FGoRouter--kit-111827?style=for-the-badge)](https://github.com/ifsix/GoRouter-kit)
+[![Go Reference](https://img.shields.io/badge/docs-pkg.go.dev-0A66C2?style=for-the-badge)](https://pkg.go.dev/github.com/ifsix/GoRouter-kit)
+[![Stars](https://img.shields.io/github/stars/ifsix/GoRouter-kit?style=for-the-badge)](https://github.com/ifsix/GoRouter-kit/stargazers)
+[![Last Commit](https://img.shields.io/github/last-commit/ifsix/GoRouter-kit?style=for-the-badge)](https://github.com/ifsix/GoRouter-kit/commits/main)
+[![License](https://img.shields.io/github/license/ifsix/GoRouter-kit?style=for-the-badge)](./LICENSE)
 
 GoRouter Kit is a production-focused Go SDK for the OpenRouter API.
 
@@ -12,11 +16,11 @@ The project is a Go fork inspired by `openrouter-kit`, rewritten for idiomatic G
 ## Installation
 
 ```bash
-go get github.com/bycmd/GoRouter-kit
+go get github.com/ifsix/GoRouter-kit
 ```
 
 ```go
-import gorouter "github.com/bycmd/GoRouter-kit"
+import gorouter "github.com/ifsix/GoRouter-kit"
 ```
 
 ## Table of Contents
@@ -38,7 +42,7 @@ import (
     "log"
     "os"
 
-    gorouter "github.com/bycmd/GoRouter-kit"
+    gorouter "github.com/ifsix/GoRouter-kit"
 )
 
 func main() {

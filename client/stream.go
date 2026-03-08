@@ -8,8 +8,8 @@ import (
 	"io"
 	"strings"
 
-	"github.com/bycmd/GoRouter-kit/errs"
-	"github.com/bycmd/GoRouter-kit/schema"
+	"github.com/ifsix/GoRouter-kit/errs"
+	"github.com/ifsix/GoRouter-kit/schema"
 )
 
 func (c *Client) ChatStream(ctx context.Context, req schema.ChatRequest) (<-chan schema.StreamEvent, error) {

@@ -6,8 +6,8 @@ import (
 	"log"
 	"os"
 
-	"github.com/bycmd/GoRouter-kit"
-	"github.com/bycmd/GoRouter-kit/history/memory"
+	"github.com/ifsix/GoRouter-kit"
+	"github.com/ifsix/GoRouter-kit/history/memory"
 )
 
 func main() {

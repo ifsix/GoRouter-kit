@@ -5,7 +5,7 @@ import (
 	"sync"
 	"time"
 
-	"github.com/bycmd/GoRouter-kit/schema"
+	"github.com/ifsix/GoRouter-kit/schema"
 )
 
 type ManagerOptions struct {

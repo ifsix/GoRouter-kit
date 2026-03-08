@@ -7,8 +7,8 @@ import (
 	"fmt"
 	"time"
 
-	"github.com/bycmd/GoRouter-kit/schema"
-	"github.com/bycmd/GoRouter-kit/security"
+	"github.com/ifsix/GoRouter-kit/schema"
+	"github.com/ifsix/GoRouter-kit/security"
 )
 
 type RunConfig struct {

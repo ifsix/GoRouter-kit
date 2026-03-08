@@ -4,8 +4,8 @@ import (
 	"context"
 	"slices"
 
-	"github.com/bycmd/GoRouter-kit/client"
-	"github.com/bycmd/GoRouter-kit/schema"
+	"github.com/ifsix/GoRouter-kit/client"
+	"github.com/ifsix/GoRouter-kit/schema"
 )
 
 type ToolRegistryMode string

@@ -5,8 +5,8 @@ import (
 	"regexp"
 	"strings"
 
-	"github.com/bycmd/GoRouter-kit/errs"
-	"github.com/bycmd/GoRouter-kit/schema"
+	"github.com/ifsix/GoRouter-kit/errs"
+	"github.com/ifsix/GoRouter-kit/schema"
 )
 
 var historyKeySanitizer = regexp.MustCompile(`[:/\\?#%]`)
