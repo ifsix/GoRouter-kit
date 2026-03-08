@@ -1,11 +1,8 @@
-﻿# GoRouter Kit
+# GoRouter Kit
 
-[![Go Version](https://img.shields.io/badge/Go-1.22-00ADD8?logo=go)](https://go.dev/)
-[![Go Reference](https://pkg.go.dev/badge/github.com/bycmd/GoRouter-kit.svg)](https://pkg.go.dev/github.com/bycmd/GoRouter-kit)
-[![Module](https://img.shields.io/badge/module-github.com%2Fbycmd%2FGoRouter--kit-24292f)](https://github.com/bycmd/GoRouter-kit)
-[![License: MIT](https://img.shields.io/badge/License-MIT-2ea44f.svg)](./LICENSE)
-[![Fork Base](https://img.shields.io/badge/fork%20base-openrouter--kit-2b6cb0)](https://github.com/bycmd/openrouter-kit)
-
+[![Go](assets/badges/go.svg)](https://go.dev/)
+[![Repo](assets/badges/repo.svg)](https://github.com/ifsix/GoRouter-kit)
+[![License](assets/badges/license.svg)](./LICENSE)
 **Русский** | [English](./README.md)
 
 GoRouter Kit — Go SDK для OpenRouter API, ориентированный на продакшн-нагрузку.
